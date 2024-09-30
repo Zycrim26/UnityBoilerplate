@@ -1,6 +1,6 @@
 # Unity WebGL CI/CD with GitHub Actions
 
-WebGL published here (EDIT IT!) https://YOUR_GH_Zycrim26.github.io/UnityBoilerplate/
+WebGL published here (EDIT IT!) https://Zycrim26.github.io/UnityBoilerplate/
 
 # Setup Steps:
 
